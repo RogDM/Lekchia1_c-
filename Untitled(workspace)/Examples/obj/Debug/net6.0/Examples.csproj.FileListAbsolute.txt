@@ -1,0 +1,15 @@
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\bin\Debug\net6.0\Examples.exe
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\bin\Debug\net6.0\Examples.deps.json
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\bin\Debug\net6.0\Examples.runtimeconfig.json
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\bin\Debug\net6.0\Examples.dll
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\bin\Debug\net6.0\Examples.pdb
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.csproj.AssemblyReference.cache
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.AssemblyInfoInputs.cache
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.AssemblyInfo.cs
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.csproj.CoreCompileInputs.cache
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.dll
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\refint\Examples.dll
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.pdb
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\Examples.genruntimeconfig.cache
+E:\Programs\Lechii\Znakomstwo_s_it\1Lechia\Untitled(workspace)\Examples\obj\Debug\net6.0\ref\Examples.dll
