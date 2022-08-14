@@ -5,21 +5,21 @@
 // 4 группа - и принимает и возвращает.
 
 // Вид 1
-void Method1();
+void Method1()
 {
     Console.WriteLine("Автор ...");
 }
 Method1();
 
 // вид 2
-void Method2(string msg);
+void Method2(string msg)
 {
     Console.WriteLine(msg);
 }
 Method1("Текст сообщения");
 Method1(msg: "Текст сообщения"); // используется, если в методе много перемененнх и действий
 // пример
-void Method21(string msg);
+void Method21(string msg)
 {
     int i = 0;
     while (i < count)
@@ -33,18 +33,18 @@ Method21(msg: "Текст", count: 4); // порядок соблюдать не
 
 // 3 группа
 
-int Method3();
+int Method3()
 {
     return DateTime.Now.Year;
 }
 int year = Method3();
 Console.WriteLine(year);
 
-// 3 группа
-string Method4(int count, string text);
+// 4 группа
+string Method4(int count, string text)
 {
     int i = 0;
-    string result = string.Empty;
+    string result = String.Empty;
 
     while (i < count);
     {
