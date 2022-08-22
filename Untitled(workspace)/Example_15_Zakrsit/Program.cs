@@ -40,7 +40,7 @@ void PrintImage(int[,] image)  // метод для распечатки мас�
     }
 }
 
-void FillImage(int row, int col)
+void FillImage(int row, int col) // рекурсия, метод вызывает сам себя и помогает распечатывать
 {
     if (pic[row, col] == 0)
     {
